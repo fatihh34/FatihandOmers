@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 GIT KOMUTLARI
+=======
+gitGIT KOMUTLARI
+>>>>>>> master
 ---------------
 - 1. git init --> Local repo oluşturmak için yani git ile klasörümüzün içindeki dosyaları
 ilişkilendirmek için kullanılır
